@@ -25,3 +25,9 @@ ul.menu li a {
     margin: 10px;
     text-decoration: none;
 }
+ul > li {
+    list-style: square;
+}
+ul > li ol {
+    list-style: none;
+}
