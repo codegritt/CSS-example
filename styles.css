@@ -34,3 +34,7 @@ ul > li ol {
 .font-styles{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+body {
+    background-image: url("/examples/images/tile.png");
+}
