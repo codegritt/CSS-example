@@ -36,5 +36,5 @@ ul > li ol {
 }
 
 body {
-    background-image: url("/examples/images/tile.png");
+    background-image: url("images/tile.png");
 }
