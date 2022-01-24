@@ -38,3 +38,9 @@ ul > li ol {
 body {
     background-image: url("images/tile.png");
 }
+body {        
+    background-image: url("/examples/images/bell.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
