@@ -31,3 +31,6 @@ ul > li {
 ul > li ol {
     list-style: none;
 }
+.font-styles{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
